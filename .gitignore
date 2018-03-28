@@ -1,0 +1,13 @@
+*
+!.gitignore
+!*.prg
+!*.rsp
+!*.lianja*
+!*.js
+!*.labels
+!*.properties
+!*.ico
+!*.png
+!*.conf
+!*.html
+!*.py
